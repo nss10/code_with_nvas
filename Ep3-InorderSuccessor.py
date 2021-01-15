@@ -20,6 +20,8 @@ class Solution:
     """
     @param: root: The root of the BST.
     @param: p: You need find the successor node of p.
+
+    https://www.linkedin.com/in/qi-chen-a9841176/
     @return: Successor of p.
     """
     def inorderSuccessor(self, root, p):
